@@ -1,11 +1,11 @@
 {
-    "name": "exmachina/laravel-route-js",
+    "name": "axterisko/laravel-route-js",
     "description": "Convert laravel's route to json files to be use in Javascript.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jann Paolo Cana",
-            "email": "jpaolo.garcia03@gmail.com"
+            "name": "Axterisko",
+            "email": "notifications@axterisko.it"
         }
     ],
     "require": {
